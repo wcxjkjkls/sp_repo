@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class Item {//
+public class Item {//1111111
 	private Integer id;
 	private String name;
 	private Integer number;
